@@ -1,4 +1,4 @@
-Top Valued Player Review 2024 - Dashboard, Data Scraping.
+# Top Valued Player Review 2024 - Dashboard, Data Scraping.
 
 Utilize Tableau to craft interactive dashboards that display player price. Using Pandas for cleaning, processing, and organizing the collected data. 
 Implement the Requests and Beautiful Soup libraries to gather data from football websites. Develop a Python script that scrapes, processes, and visualizes the data.
